@@ -347,15 +347,15 @@
         <h1>Depanaz</h1>
         <p>Road Assistance</p>
     </header>
-    <a class="call-button" href="tel:+23059066042">
+    <a class="call-button" href="tel:+23059884094">
             <i class="fa fa-phone" style="font-size:28px; color: white; margin-right: 20px;"></i> CALL FOR ASSISTANCE
         </a>
     <div class="button-grid">
         <a href="#">
-            <img src="about-icon.png" alt="Request Towing">
+            <img src="../assets/icons/tow-truck.png" alt="Request Towing">
             Request Towing
         </a>
-        <a href="https://carsolution.fast-page.org/nearest-garage.php">
+        <a href="../nearest-garage.php">
             <img src="garage-icon.png" alt="Nearest Garage">
             Nearest Garage
         </a>
