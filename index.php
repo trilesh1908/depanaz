@@ -351,20 +351,20 @@
             <i class="fa fa-phone" style="font-size:28px; color: white; margin-right: 20px;"></i> CALL FOR ASSISTANCE
         </a>
     <div class="button-grid">
-        <a href="#">
-            <img src="../assets/icons/tow-truck.png" alt="Request Towing">
-            Request Towing
-        </a>
-        <a href="../nearest-garage.php">
-            <img src="garage-icon.png" alt="Nearest Garage">
+        <a href="./nearest-garage.php">
+            <img src="../assets/icons/tow-truck.png" alt="Nearest Garage">
             Nearest Garage
         </a>
         <a href="#">
-            <img src="towing-icon.png" alt="Breakdown Assistance">
+            <img src="../assets/icons/automobile-with-wrench.png" alt="Request Towing">
+            Request Towing
+        </a>
+        <a href="#">
+            <img src="../assets/icons/car-breakdown.png" alt="Breakdown Assistance">
             Breakdown Assistance
         </a>
         <a href="#">
-            <img src="location-icon.png" alt="Share My Location">
+            <img src="../assets/icons/location (1).png" alt="Share My Location">
             Share My Location
         </a>
     </div>
