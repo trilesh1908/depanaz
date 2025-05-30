@@ -344,8 +344,7 @@
     });
 </script>
     <header>
-        <h1>Depanaz</h1>
-        <p>Road Assistance</p>
+        <img src="../assets/img/depanaz-logo-wesite.png" alt="Logo">
     </header>
     <a class="call-button" href="tel:+23059884094">
             <i class="fa fa-phone" style="font-size:28px; color: white; margin-right: 20px;"></i> CALL FOR ASSISTANCE
