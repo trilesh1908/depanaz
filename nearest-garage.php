@@ -40,6 +40,7 @@
       font-size: 16px;
       margin-top: 10px;
       cursor: pointer;
+      border-radius:20px;
     }
 
     #garage-list {
