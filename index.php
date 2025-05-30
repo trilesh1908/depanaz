@@ -192,7 +192,7 @@
             border-bottom-right-radius: 30px;
         }
         .header-logo{
-            height: 100px;
+            height: 150px;
             width: 200px;
         }
 
