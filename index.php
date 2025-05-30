@@ -375,7 +375,7 @@
     <main>
         <div class="about">
             <h2>About Us</h2>
-            <img src="../assets/img/home-about.jpg" alt="About Image" style="max-width: 100%; border-radius: 10px; margin-bottom: 20px;">
+            <img src="../assets/img/towing-load-image.png" alt="About Image" style="max-width: 100%; border-radius: 10px; margin-bottom: 20px;">
             <p>
                 <strong>Depanaz</strong> is your trusted partner on the road, committed to help drivers across the island when it matters most. Whether you’re facing a sudden breakdown, a road accident, or just need a nearby garage, we’re here 24/7 with the support you need.
             </p>
