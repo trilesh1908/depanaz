@@ -127,7 +127,7 @@
     </header>
   <div class="container">
     
-    <button onclick="locateUser()"><i class="fa fa-map-marker" style="margin-right:20px;"></i> LOCATE ME</button>
+    <button onclick="locateUser()"><i class="fa fa-map-marker" style="margin-right:20px; font-size:26px;"></i> LOCATE ME</button>
 
     <!-- ✅ Make sure this image exists in the same folder -->
    
