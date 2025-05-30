@@ -355,11 +355,11 @@
         </a>
     <div class="button-grid">
         <a href="./nearest-garage.php">
-            <img src="../assets/icons/tow-truck.png" alt="Nearest Garage">
+            <img src="../assets/icons/automobile-with-wrench.png" alt="Nearest Garage">
             Nearest Garage
         </a>
         <a href="#">
-            <img src="../assets/icons/automobile-with-wrench.png" alt="Request Towing">
+            <img src="../assets/icons/tow-truck.png" alt="Request Towing">
             Request Towing
         </a>
         <a href="#">
