@@ -448,21 +448,17 @@
     </div>
     <footer>
     <div class="sticky-footer-menu">
-        <a href="#">
-            <img src="icon1.png" alt="Icon 1">
-            Option 1
+        <a href="index.php">
+            <img src="../assets/icons/home.png" alt="Icon 1">
         </a>
-        <a href="#">
-            <img src="icon2.png" alt="Icon 2">
-            Option 2
+        <a href="../request-towing.php">
+            <img src="../assets/icons/hook.png" alt="Icon 2">
         </a>
-        <a href="#">
-            <img src="icon3.png" alt="Icon 3">
-            Option 3
+        <a href="../location.php">
+            <img src="../assets/icons/location.png" alt="Icon 3">
         </a>
-        <a href="#">
-            <img src="icon4.png" alt="Icon 4">
-            Option 4
+        <a href="../nearest-garage.php">
+            <img src="../assets/icons/support.png" alt="Icon 4">
         </a>
     </div>
     </footer>
