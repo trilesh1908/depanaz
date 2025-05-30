@@ -428,24 +428,6 @@
             </form>
         </div>
     </main>
-    <div class="sticky-footer-menu">
-        <a href="#">
-            <img src="icon1.png" alt="Icon 1">
-            Option 1
-        </a>
-        <a href="#">
-            <img src="icon2.png" alt="Icon 2">
-            Option 2
-        </a>
-        <a href="#">
-            <img src="icon3.png" alt="Icon 3">
-            Option 3
-        </a>
-        <a href="#">
-            <img src="icon4.png" alt="Icon 4">
-            Option 4
-        </a>
-    </div>
     <footer>
     <div class="sticky-footer-menu">
         <a href="index.php">
