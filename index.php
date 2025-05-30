@@ -191,6 +191,10 @@
             border-bottom-left-radius: 30px;
             border-bottom-right-radius: 30px;
         }
+        .header-logo{
+            height: 20px;
+            width: 100px;
+        }
 
             .button-grid {
                 display: grid;
@@ -344,7 +348,7 @@
     });
 </script>
     <header>
-        <img src="../assets/img/depanaz-logo-wesite.png" alt="Logo">
+        <img src="../assets/img/depanaz-logo-wesite.png" alt="Logo" class="header-logo">
     </header>
     <a class="call-button" href="tel:+23059884094">
             <i class="fa fa-phone" style="font-size:28px; color: white; margin-right: 20px;"></i> CALL FOR ASSISTANCE
