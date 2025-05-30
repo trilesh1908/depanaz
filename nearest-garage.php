@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Nearest Garages</title>
-
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <!-- ✅ FIXED: Leaflet CSS (no integrity) -->
   <link
     rel="stylesheet"
@@ -127,7 +127,7 @@
     </header>
   <div class="container">
     
-    <button onclick="locateUser()">LOCATE ME</button>
+    <button onclick="locateUser()"><i class="fa fa-map-marker" style="margin-right:20px;"></i> LOCATE ME</button>
 
     <!-- ✅ Make sure this image exists in the same folder -->
    
