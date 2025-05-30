@@ -192,8 +192,8 @@
             border-bottom-right-radius: 30px;
         }
         .header-logo{
-            height: 75px;
-            width: 120px;
+            height: 100px;
+            width: 200px;
         }
 
             .button-grid {
