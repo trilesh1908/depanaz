@@ -352,15 +352,15 @@
         </a>
     <div class="button-grid">
         <a href="#">
-            <img src="about-icon.png" alt="About Us">
-            Nearest Garage
+            <img src="about-icon.png" alt="Request Towing">
+            Request Towing
         </a>
         <a href="https://carsolution.fast-page.org/nearest-garage.php">
             <img src="garage-icon.png" alt="Nearest Garage">
-            Request Towing
+            Nearest Garage
         </a>
         <a href="#">
-            <img src="towing-icon.png" alt="Request Towing">
+            <img src="towing-icon.png" alt="Breakdown Assistance">
             Breakdown Assistance
         </a>
         <a href="#">
