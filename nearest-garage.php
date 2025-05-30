@@ -20,6 +20,17 @@
       text-align: center;
     }
 
+    header {
+            background-image: url('../assets/img/car-repair-garage.png');
+            background-size: cover;
+            background-position: center;
+            color: white;
+            padding: 75px;
+            text-align: center;
+            border-bottom-left-radius: 30px;
+            border-bottom-right-radius: 30px;
+        }
+
     .container {
       padding: 20px;
     }
@@ -111,8 +122,11 @@
   </style>
 </head>
 <body>
+  <header>
+        <h1>GARAGES IN YOUR AREA</h1>
+    </header>
   <div class="container">
-    <h1>GARAGES IN YOUR AREA</h1>
+    
     <button onclick="locateUser()">LOCATE ME</button>
 
     <!-- ✅ Make sure this image exists in the same folder -->
