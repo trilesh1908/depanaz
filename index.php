@@ -154,7 +154,7 @@
             width: 100%;
             display: flex;
             justify-content: space-around;
-            background-color: #4e4e4e;
+            background-color: #fff;
             padding: 10px 0;
             box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.2);
             z-index: 1000;
@@ -211,7 +211,7 @@
             width: 100%;
             display: flex;
             justify-content: space-around;
-            
+            background-color: #fff;
             padding: 10px 0;
             box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.2);
             z-index: 1000;
